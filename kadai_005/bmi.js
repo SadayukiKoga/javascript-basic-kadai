@@ -1,5 +1,5 @@
 const weight = 68;
-const height = 1.8;
+const height = 1.7;
 
 console.log(weight / (height * height))
 
